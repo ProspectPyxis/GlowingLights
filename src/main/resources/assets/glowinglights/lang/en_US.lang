@@ -1,0 +1,9 @@
+# Blocks
+tile.blaze_powder_block.name=Compressed Blaze Powder
+tile.glowstone_bowl.name=Bowl of Glowstone
+tile.glowing_gravel.name=Glowing Gravel
+tile.glowing_gravel_path.name=Glowing Gravel Path
+
+# Items
+item.glowstone_bowl_item.name=Bowl of Glowstone
+item.glowing_gravel_path_item.name=Glowing Gravel Path

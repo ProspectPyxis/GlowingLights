@@ -1,0 +1,9 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+	"model": "glowinglights:glowstone_bowl"
+  },
+  "variants": {
+    "normal": [{}]
+  }
+}

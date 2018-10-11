@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "glowinglights:items/glowing_gravel_path_item"
+  }
+}

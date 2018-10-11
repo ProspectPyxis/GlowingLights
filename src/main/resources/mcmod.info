@@ -1,0 +1,10 @@
+[{
+  "modid": "glowinglights",
+  "name": "Glowing Lights",
+  "description": "More light sources, especially from glowstone.",
+  "version": "0.1",
+  "mcversion": "1.12.2",
+  "logoFile": "assets/glowinglights/textures/logo.png",
+  "authorList": ["ProspectPyxis"],
+  "credits": "Thanks to Casey for the idea!"
+}]
